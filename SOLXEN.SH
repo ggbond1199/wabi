@@ -238,6 +238,7 @@ function main_menu() {
     while true; do
         clear
         echo "紧急项目！！！"
+
         echo "退出脚本，请按键盘ctrl c退出即可"
         echo "请选择要执行的操作:"
         echo "1. 全新安装节点，适合没有solana钱包用户"
